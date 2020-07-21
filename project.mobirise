@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "Trailed.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.10.4",
     "name": "Case Website",
@@ -23,7 +23,9 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#f7fa1c"
+        "#f7fa1c",
+        "#8c1f1f",
+        "#88001b"
       ]
     },
     "scrollAnimation": "true",
@@ -201,7 +203,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -287,8 +289,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -339,7 +341,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -425,8 +427,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -484,11 +486,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/case-sp-1999-2001-cropped-600x437.jpg",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-600x459.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "SP3000 1999-2001.html",
+              "link": "SP 3000.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -496,11 +498,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-600x459.jpg",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-1999-2001-cropped-600x437.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "SP 3000.html",
+              "link": "SP3000 1999-2001.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -542,10 +544,10 @@
               "active": true
             }
           },
-          "title1": "<a href=\"SP3000 1999-2001.html\" class=\"text-black\">SP 3000 Late 1999-2003</a>",
+          "title1": "<a href=\"SP 3000.html\" class=\"text-black\">SP 3000 Pre 1999</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"SP 3000.html\" class=\"text-black\">SP 3000</a>",
+          "title2": "<a href=\"SP3000 1999-2001.html\" class=\"text-black\">SP 3000 Late 1999-2003</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
@@ -570,7 +572,12 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-2f"
+          "_anchor": "features3-2f",
+          "_styles": {
+            "H4": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_name": "contacts1",
@@ -591,7 +598,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -677,8 +684,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -760,14 +767,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/controllers-and-electrics-category-282x282.jpg",
+              "src": "@PROJECT_PATH@/assets/images/controllers-and-electrics-category-500x500.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "Controls and Electronics.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -884,7 +890,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/case-trailed-cropped-3-3-243x242.jpg",
+              "src": "@PROJECT_PATH@/assets/images/case-trailed-cropped-3-3-500x500.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -958,7 +964,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1005,22 +1011,22 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#550011"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#790018!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#88001b"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1044,8 +1050,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1442,7 +1448,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1528,8 +1534,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1559,7 +1565,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "SP 3000 Late 1999-2003",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2732,7 +2738,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2763,7 +2769,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "SP 3000",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -2785,7 +2791,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -2871,8 +2877,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2924,7 +2930,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3010,8 +3016,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3063,7 +3069,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3149,8 +3155,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3202,7 +3208,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3288,8 +3294,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3341,7 +3347,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3427,8 +3433,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3480,7 +3486,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3566,8 +3572,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3619,7 +3625,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3705,8 +3711,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3758,7 +3764,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3844,8 +3850,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3897,7 +3903,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3983,8 +3989,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4036,7 +4042,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4122,8 +4128,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4175,7 +4181,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4261,8 +4267,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4314,7 +4320,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4400,8 +4406,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4453,7 +4459,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4539,8 +4545,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4592,7 +4598,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4678,8 +4684,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4731,7 +4737,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4817,8 +4823,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4870,7 +4876,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -4956,8 +4962,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5009,7 +5015,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#88001b",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5095,8 +5101,8 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": 0.75,
+            "bgColor": "#88001b",
+            "fontSize": "1.2",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"

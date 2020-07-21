@@ -615,6 +615,9 @@ section.form .container {
 
 
 
+#features3-2f H4 {
+  color: #000000;
+}
 #contacts1-2g STRONG {
   color: #ffff00;
 }
@@ -715,11 +718,11 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #menu-2j .link {
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 #menu-2j .dropdown-item,
 #menu-2j .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.300rem;
 }
 #menu-2j .link:hover,
 #menu-2j .dropdown-item:hover,
@@ -729,19 +732,19 @@ section.form .container {
 }
 #menu-2j .link[aria-expanded="true"],
 #menu-2j .dropdown-menu {
-  background: #000000;
+  background: #550011;
 }
 #menu-2j .nav-dropdown-sm .link:focus,
 #menu-2j .nav-dropdown-sm .link:hover,
 #menu-2j .nav-dropdown-sm .dropdown-item:focus,
 #menu-2j .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #790018!important;
 }
 #menu-2j .navbar,
 #menu-2j .nav-dropdown-sm,
 #menu-2j .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-2j .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #88001b;
 }
 #menu-2j .bg-color.transparent .link {
   color: #ffffff;
