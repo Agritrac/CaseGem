@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "SP 3000 Late 1999-2003 Deutz.html",
+    "currentPage": "SP 3000 Deutz.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.10.4",
     "name": "Case Website",
@@ -4315,9 +4315,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9C Engine Parts.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4325,7 +4326,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9C Filters.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4334,9 +4339,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9C Pumps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4363,13 +4369,13 @@
               "active": true
             }
           },
-          "title1": "Engine Parts",
+          "title1": "<a href=\"SP9C Engine Parts.html\" class=\"text-black\">Engine Parts</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Filters",
+          "title2": "<a href=\"SP9C Filters.html\" class=\"text-black\">Filters</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Pumps",
+          "title3": "<a href=\"SP9C Pumps.html\" class=\"text-black\">Pumps</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -4421,7 +4427,11 @@
               "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9C Booms.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4430,9 +4440,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9C Valves and Taps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4440,7 +4451,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9C Bushes and Pins.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4467,13 +4482,13 @@
               "active": true
             }
           },
-          "title1": "Booms",
+          "title1": "<a href=\"SP9C Booms.html\" class=\"text-black\">Booms</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Valves and Taps",
+          "title2": "<a href=\"SP9C Valves and Taps.html\" class=\"text-black\">Valves and Taps</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Bushes and Pins",
+          "title3": "<a href=\"SP9C Bushes and Pins.html\" class=\"text-black\">Bushes and Pins</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -4526,9 +4541,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9C Controls and Electronics.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4536,7 +4552,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9C Axles and Steering.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4544,7 +4564,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9C Cab.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4571,13 +4595,13 @@
               "active": true
             }
           },
-          "title1": "Controls and Electronics",
+          "title1": "<a href=\"SP9C Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Axles",
+          "title2": "<a href=\"SP9C Axles and Steering.html\" class=\"text-black\">Axles and Steering</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Cab",
+          "title3": "<a href=\"SP9C Cab.html\" class=\"text-black\">Cab</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -4769,9 +4793,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9D Engine Parts.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4779,7 +4804,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9D Filters.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4788,9 +4817,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9D Pumps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4817,13 +4847,13 @@
               "active": true
             }
           },
-          "title1": "Engine Parts",
+          "title1": "<a href=\"SP9D Engine Parts.html\" class=\"text-black\">Engine Parts</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Filters",
+          "title2": "<a href=\"SP9D Filters.html\" class=\"text-black\">Filters</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Pumps",
+          "title3": "<a href=\"SP9D Pumps.html\" class=\"text-black\">Pumps</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -4875,7 +4905,11 @@
               "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9D Booms.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4884,9 +4918,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9D Valves and Taps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4894,7 +4929,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9D Bushes and Pins.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4921,13 +4960,13 @@
               "active": true
             }
           },
-          "title1": "Booms",
+          "title1": "<a href=\"SP9D Booms.html\" class=\"text-black\">Booms</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Valves and Taps",
+          "title2": "<a href=\"SP9D Valves and Taps.html\" class=\"text-black\">Valves and Taps</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Bushes and Pins",
+          "title3": "<a href=\"SP9D Bushes and Pins.html\" class=\"text-black\">Bushes and Pins</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -4980,9 +5019,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SP9D Controls and Electronics.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4990,7 +5030,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9D Axles and Steering.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -4998,7 +5042,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SP9D Cab.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5025,13 +5073,13 @@
               "active": true
             }
           },
-          "title1": "Controls and Electronics",
+          "title1": "<a href=\"SP9D Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Axles",
+          "title2": "<a href=\"SP9D Axles and Steering.html\" class=\"text-black\">Axles and Steering</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Cab",
+          "title3": "<a href=\"SP9D Cab.html\" class=\"text-black\">Cab</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -5223,9 +5271,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPC Engine Parts.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5233,7 +5282,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPC Filters.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -5242,9 +5295,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPC Pumps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5271,13 +5325,13 @@
               "active": true
             }
           },
-          "title1": "Engine",
+          "title1": "<a href=\"SPC Engine Parts.html\" class=\"text-black\">Engine Parts</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Filters",
+          "title2": "<a href=\"SPC Filters.html\" class=\"text-black\">Filters</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Pumps",
+          "title3": "<a href=\"SPC Pumps.html\" class=\"text-black\">Pumps</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -5329,7 +5383,11 @@
               "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPC Booms.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5338,9 +5396,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPC Valves and Taps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -5348,7 +5407,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPC Bushes and Pins.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5375,13 +5438,13 @@
               "active": true
             }
           },
-          "title1": "Booms",
+          "title1": "<a href=\"SPC Booms.html\" class=\"text-black\">Booms</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Valves and Taps",
+          "title2": "<a href=\"SPC Valves and Taps.html\" class=\"text-black\">Valves and Taps</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Bushes and Pins",
+          "title3": "<a href=\"SPC Bushes and Pins.html\" class=\"text-black\">Bushes and Pins</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -5434,9 +5497,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPC Controls and Electronics.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5444,7 +5508,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPC Axles and Steering.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -5452,7 +5520,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPC Cab.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5479,13 +5551,13 @@
               "active": true
             }
           },
-          "title1": "Controls and Electronics",
+          "title1": "<a href=\"SPC Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Axles",
+          "title2": "<a href=\"SPC Axles and Steering.html\" class=\"text-black\">Axles and Steering</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Cab",
+          "title3": "<a href=\"SPC Cab.html\" class=\"text-black\">Cab</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -5677,9 +5749,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPD Engine Parts.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5687,7 +5760,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPD Filters.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -5696,9 +5773,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPD Pumps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5725,13 +5803,13 @@
               "active": true
             }
           },
-          "title1": "Engine",
+          "title1": "<a href=\"SPD Engine Parts.html\" class=\"text-black\">Engine Parts</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Filters",
+          "title2": "<a href=\"SPD Filters.html\" class=\"text-black\">Filters</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Pumps",
+          "title3": "<a href=\"SPD Pumps.html\" class=\"text-black\">Pumps</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -5783,7 +5861,11 @@
               "src": "@PROJECT_PATH@/assets/images/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPD Booms.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5792,9 +5874,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPD Valves and Taps.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -5802,7 +5885,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPD Bushes and Pins.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5829,13 +5916,13 @@
               "active": true
             }
           },
-          "title1": "Booms",
+          "title1": "<a href=\"SPD Booms.html\" class=\"text-black\">Booms</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Valves and Taps",
+          "title2": "<a href=\"SPD Valves and Taps.html\" class=\"text-black\">Valves and Taps</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Bushes and Pins",
+          "title3": "<a href=\"SPD Bushes and Pins.html\" class=\"text-black\">Bushes and Pins</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -5888,9 +5975,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "SPD Controls and Electronics.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5898,7 +5986,11 @@
               "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPD Axles and Steering.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -5906,7 +5998,11 @@
               "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "SPD Cab.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -5933,13 +6029,13 @@
               "active": true
             }
           },
-          "title1": "Controls and Electronics",
+          "title1": "<a href=\"SPD Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Axles",
+          "title2": "<a href=\"SPD Axles and Steering.html\" class=\"text-black\">Axles and Steering</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Cab",
+          "title3": "<a href=\"SPD Cab.html\" class=\"text-black\">Cab</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -6092,145 +6188,6 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-3o"
-        }
-      ]
-    },
-    "SP9C Engine.html": {
-      "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "SP9C Engine",
-        "order": 4
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-5t"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-5u"
         }
       ]
     },
@@ -7068,145 +7025,6 @@
         }
       ]
     },
-    "SP9C Axles.html": {
-      "settings": {
-        "meta_descr": "Web Generator Description",
-        "title": "SP9C Axles",
-        "order": 11
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-5f"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-5g"
-        }
-      ]
-    },
     "SP9C Cab.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
@@ -7343,145 +7161,6 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-5e"
-        }
-      ]
-    },
-    "SP9D Engine.html": {
-      "settings": {
-        "meta_descr": "Web Page Generator Description",
-        "title": "SP9D Engine",
-        "order": 14
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-3t"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-3u"
         }
       ]
     },
@@ -8319,145 +7998,6 @@
         }
       ]
     },
-    "SP9D Axles.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "SP9D Axles",
-        "order": 21
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-47"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-48"
-        }
-      ]
-    },
     "SP9D Cab.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
@@ -8594,145 +8134,6 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4a"
-        }
-      ]
-    },
-    "SPC Engine.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "SPC Engine",
-        "order": 25
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-4r"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-4s"
         }
       ]
     },
@@ -9570,145 +8971,6 @@
         }
       ]
     },
-    "SPC Axles.html": {
-      "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "SPC Axles",
-        "order": 32
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-4d"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-4e"
-        }
-      ]
-    },
     "SPC Cab.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
@@ -9845,145 +9107,6 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4c"
-        }
-      ]
-    },
-    "SPD Engine.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "SPD Engine",
-        "order": 35
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-59"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-5a"
         }
       ]
     },
@@ -10821,145 +9944,6 @@
         }
       ]
     },
-    "SPD Axles.html": {
-      "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "SPD Axles",
-        "order": 42
-      },
-      "components": [
-        {
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffff00"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#88001b",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
-          "_anchor": "contacts1-4v"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-family": "'Raleway', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#550011"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#790018!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#88001b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#88001b",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
-              "height": 128,
-              "alt": "",
-              "link": "http://www.cropsprayerparts.com/",
-              "title": "Agritrac"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-4w"
-        }
-      ]
-    },
     "SPD Cab.html": {
       "settings": {
         "meta_descr": "Web Creator Description",
@@ -11096,6 +10080,1118 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "_anchor": "menu-4u"
+        }
+      ]
+    },
+    "SP9C Axles and Steering.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "SP9C Axles and Steering",
+        "order": 11
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-5f"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-5g"
+        }
+      ]
+    },
+    "SP9D Axles and Steering.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "SP9D Axles and Steering",
+        "order": 21
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-47"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-48"
+        }
+      ]
+    },
+    "SPC Axles and Steering.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "SPC Axles and Steering",
+        "order": 32
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-4d"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-4e"
+        }
+      ]
+    },
+    "SPD Axles and Steering.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "SPD Axles and Steering",
+        "order": 42
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-4v"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-4w"
+        }
+      ]
+    },
+    "SP9C Engine Parts.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "SP9C Engine Parts",
+        "order": 4
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-5t"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-5u"
+        }
+      ]
+    },
+    "SP9D Engine Parts.html": {
+      "settings": {
+        "meta_descr": "Web Page Generator Description",
+        "title": "SP9D Engine Parts",
+        "order": 14
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-3t"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-3u"
+        }
+      ]
+    },
+    "SPC Engine Parts.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "SPC Engine Parts",
+        "order": 25
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-4r"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-4s"
+        }
+      ]
+    },
+    "SPD Engine Parts.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "SPD Engine Parts",
+        "order": 35
+      },
+      "components": [
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffff00"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#88001b",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gauge-128x85-47.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"www.cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"www.cropsprayerparts.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://nstsequipment.co.uk/\">NSTS Testing Equipment</a></p>",
+          "_anchor": "contacts1-59"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#550011"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#790018!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#88001b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#88001b",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x101.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://www.cropsprayerparts.com/",
+              "title": "Agritrac"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"www.nststest.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A Division of Agritrac</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">PHOTO GALLERY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_anchor": "menu-5a"
         }
       ]
     }
