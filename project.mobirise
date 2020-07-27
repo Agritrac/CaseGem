@@ -8,8 +8,8 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#3d8eb9",
-        "secondaryColor": "#ffffff",
+        "primaryColor": "#b8312f",
+        "secondaryColor": "#f7fa1c",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -1986,7 +1986,7 @@
           },
           "title1": "Poly 2136",
           "subtitle1": "3 cylinder&nbsp;",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.<br>",
           "title2": "Poly 2180",
           "subtitle2": "4 cylinder",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -1995,24 +1995,29 @@
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "<br><br>Identifying Your Pump&nbsp;",
           "subtitle4": "Get it right!",
-          "caption4": "Over the years Bertolini has improved the design and performance of there pumps, this has lead to different diaphragms and other parts, Click here to make sure you are ordering the correct parts&nbsp;",
+          "caption4": "Over the years Bertolini has improved the design and performance of there pumps, this has lead to different diaphragms and other parts, Click here to make sure you are ordering the correct parts.<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page63.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spare parts</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Replacment pump</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"page64.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spare parts</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Replacment pump</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page65.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Spare parts<br></a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Replacment pump<br></a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page63.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Spare parts</a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Replacment pump</a> ",
+          "button2": "<a data-app-btn=\"true\" href=\"page64.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Spare parts</a> <a data-app-btn=\"true\" href=\"https://cropsprayerparts.com/shop/ols/products/bertolini-2180\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Replacment pump</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page65.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Spare parts<br></a> <a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Replacment pump<br></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Picking the right parts</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-39"
+          "_anchor": "features3-39",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_name": "contacts1",
