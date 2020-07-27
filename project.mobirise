@@ -102,8 +102,7 @@
               "active": true,
               "link": "SelfPropelled.html",
               "alt": "",
-              "title": "Master Test Gauge",
-              "linkInNewWindow": false
+              "title": "SP3000 case "
             }
           },
           "title1": "<p><span style=\"font-weight: normal;\"><a href=\"SelfPropelled.html\" class=\"text-black\">Self Propelled</a></span></p>",
@@ -118,8 +117,7 @@
               "active": true,
               "link": "Trailed.html",
               "alt": "",
-              "title": "Catchment Tray System",
-              "linkInNewWindow": false
+              "title": "Trailer TS case "
             }
           },
           "title2": "<span style=\"font-weight: normal;\"><a href=\"Trailed.html\" class=\"text-black\">Trailed</a></span>",
@@ -134,7 +132,7 @@
               "active": true,
               "link": "Mounted.html",
               "alt": "",
-              "title": "Nozzle Test Gauge"
+              "title": "Mounted MS case"
             }
           },
           "title3": "<span style=\"font-weight: normal;\"><a href=\"Mounted.html\" class=\"text-black\">Mounted</a></span>",
