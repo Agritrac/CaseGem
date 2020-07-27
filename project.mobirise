@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Bertolini Pumps.html",
+    "currentPage": "home.html",
     "versionFirst": "3.5.1",
     "versionPublish": "4.10.4",
     "name": "Case Website",
@@ -276,7 +276,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#42abdb!important"
             }
           },
           "_name": "menu",
