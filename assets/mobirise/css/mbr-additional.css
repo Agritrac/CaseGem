@@ -2225,7 +2225,7 @@ section.form .container {
 }
 #menu-3i .link[aria-expanded="true"],
 #menu-3i .dropdown-item[aria-expanded="true"] {
-  color: #efefef!important;
+  color: #42abdb!important;
 }
 
 
@@ -4781,79 +4781,6 @@ section.form .container {
 #menu-4w .link[aria-expanded="true"],
 #menu-4w .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
-}
-
-
-
-#menu-5u .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-5u .navbar-caption {
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-}
-#menu-5u .navbar-toggler {
-  color: #ffffff;
-}
-#menu-5u .close-icon::before,
-#menu-5u .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-5u .link,
-#menu-5u .dropdown-item {
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-}
-#menu-5u .link {
-  font-size: 0.75rem;
-}
-#menu-5u .dropdown-item,
-#menu-5u .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-5u .link:hover,
-#menu-5u .dropdown-item:hover,
-#menu-5u .link:focus,
-#menu-5u .dropdown-item:focus {
-  color: #42abdb;
-}
-#menu-5u .link[aria-expanded="true"],
-#menu-5u .dropdown-menu {
-  background: #550011;
-}
-#menu-5u .nav-dropdown-sm .link:focus,
-#menu-5u .nav-dropdown-sm .link:hover,
-#menu-5u .nav-dropdown-sm .dropdown-item:focus,
-#menu-5u .nav-dropdown-sm .dropdown-item:hover {
-  background: #790018!important;
-}
-#menu-5u .navbar,
-#menu-5u .nav-dropdown-sm,
-#menu-5u .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-5u .nav-dropdown-sm .dropdown-menu {
-  background: #88001b;
-}
-#menu-5u .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-5u .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-5u .bg-color.transparent.opened .link:hover,
-#menu-5u .bg-color.transparent.opened .link:focus {
-  color: #42abdb;
-}
-#menu-5u .link[aria-expanded="true"],
-#menu-5u .dropdown-item[aria-expanded="true"] {
-  color: #42abdb!important;
-}
-#contacts1-5t STRONG {
-  color: #ffff00;
-}
-#contacts1-5t P {
-  font-family: 'Raleway', sans-serif;
-  color: #ffffff;
 }
 
 
