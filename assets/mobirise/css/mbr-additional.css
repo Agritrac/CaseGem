@@ -4785,13 +4785,6 @@ section.form .container {
 
 
 
-#contacts1-5t STRONG {
-  color: #ffff00;
-}
-#contacts1-5t P {
-  font-family: 'Raleway', sans-serif;
-  color: #ffffff;
-}
 #menu-5u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -4853,7 +4846,14 @@ section.form .container {
 }
 #menu-5u .link[aria-expanded="true"],
 #menu-5u .dropdown-item[aria-expanded="true"] {
-  color: #efefef!important;
+  color: #42abdb!important;
+}
+#contacts1-5t STRONG {
+  color: #ffff00;
+}
+#contacts1-5t P {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
 }
 
 
