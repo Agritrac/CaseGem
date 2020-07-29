@@ -3643,7 +3643,7 @@
           "title1": "<a href=\"Cummins SP3000 Engine Parts.html\" class=\"text-black\">Engine Parts</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"SPC Filters.html\" class=\"text-black\"><br></a><br><a href=\"SPC Filters.html\" class=\"text-black\">Filters</a>",
+          "title2": "<br><br><br>Hydrostatic Filters&nbsp;",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "<a href=\"SP9C Pumps.html\" class=\"text-black\">Pumps</a>",
@@ -3695,7 +3695,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-2-600x595.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3718,7 +3718,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/pins-and-bushes-category-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3751,13 +3751,13 @@
               "active": true
             }
           },
-          "title1": "<a href=\"SPC Booms.html\" class=\"text-black\">Booms</a>",
+          "title1": "<a href=\"SPC Booms.html\" class=\"text-black\"><br></a><br><a href=\"SPC Booms.html\" class=\"text-black\">Booms</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"SPC Valves and Taps.html\" class=\"text-black\">Valves and Taps</a>",
+          "title2": "<a href=\"SPC Valves and Taps.html\" class=\"text-black\"><br></a><br><a href=\"SPC Valves and Taps.html\" class=\"text-black\">Valves and Taps</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<a href=\"SPC Bushes and Pins.html\" class=\"text-black\">Bushes and Pins</a>",
+          "title3": "<a href=\"SPC Bushes and Pins.html\" class=\"text-black\"><br></a><br><br><a href=\"SPC Bushes and Pins.html\" class=\"text-black\">Bushes and Pins</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -3818,7 +3818,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-4-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3829,7 +3829,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-3-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3862,7 +3862,7 @@
               "active": true
             }
           },
-          "title1": "<a href=\"SPC Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
+          "title1": "<a href=\"SPC Controls and Electronics.html\" class=\"text-black\"><br></a><br><br><a href=\"SPC Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<a href=\"SPC Axles and Steering.html\" class=\"text-black\">Axles and Steering</a>",
@@ -8331,7 +8331,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-2-600x595.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8454,7 +8454,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-4-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8465,7 +8465,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/casegem-logo-324x324.png",
+              "src": "@PROJECT_PATH@/assets/images/case-sp-cropped-3-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8498,7 +8498,7 @@
               "active": true
             }
           },
-          "title1": "<a href=\"SP9C Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
+          "title1": "<a href=\"SP9C Controls and Electronics.html\" class=\"text-black\"><br></a><br><br><a href=\"SP9C Controls and Electronics.html\" class=\"text-black\">Controls and Electronics</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "<a href=\"SP9C Axles and Steering.html\" class=\"text-black\">Axles and Steering</a>",
