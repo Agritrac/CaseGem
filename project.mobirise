@@ -8,7 +8,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#efefef",
         "secondaryColor": "#ffffff",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -200,7 +200,7 @@
           "_anchor": "contacts1-0",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -228,7 +228,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>"
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>"
         },
         {
           "_styles": {
@@ -373,7 +373,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -451,7 +451,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -479,7 +479,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2g"
         },
         {
@@ -532,7 +532,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -819,7 +819,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -847,7 +847,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2i"
         },
         {
@@ -900,7 +900,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -1082,7 +1082,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1110,7 +1110,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2k"
         },
         {
@@ -1423,7 +1423,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1451,7 +1451,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2d"
         }
       ]
@@ -1477,7 +1477,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1505,7 +1505,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2f"
         },
         {
@@ -1617,7 +1617,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1645,7 +1645,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2h"
         },
         {
@@ -1757,7 +1757,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1785,7 +1785,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2j"
         },
         {
@@ -1897,7 +1897,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1925,7 +1925,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2l"
         },
         {
@@ -2037,7 +2037,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2065,7 +2065,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2n"
         },
         {
@@ -2177,7 +2177,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2205,7 +2205,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2t"
         },
         {
@@ -2317,7 +2317,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2345,7 +2345,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2r"
         },
         {
@@ -2457,7 +2457,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2485,7 +2485,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2p"
         },
         {
@@ -2597,7 +2597,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2625,7 +2625,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-31"
         },
         {
@@ -2737,7 +2737,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2765,7 +2765,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-33"
         },
         {
@@ -2877,7 +2877,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2905,7 +2905,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2v"
         },
         {
@@ -3017,7 +3017,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3045,7 +3045,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2x"
         },
         {
@@ -3157,7 +3157,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3185,7 +3185,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2z"
         },
         {
@@ -3297,7 +3297,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3325,7 +3325,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-35"
         },
         {
@@ -3437,7 +3437,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3465,7 +3465,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-37"
         },
         {
@@ -3911,7 +3911,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3939,7 +3939,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3l"
         },
         {
@@ -3992,7 +3992,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -4385,7 +4385,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4413,7 +4413,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3n"
         },
         {
@@ -4466,7 +4466,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -4641,7 +4641,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4669,7 +4669,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5p"
         },
         {
@@ -4894,7 +4894,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4922,7 +4922,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5n"
         },
         {
@@ -4975,7 +4975,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -5147,7 +5147,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -5175,7 +5175,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5l"
         },
         {
@@ -5228,7 +5228,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -5279,7 +5279,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": "3",
             "paddingBottom": "1",
             "columns": 4,
@@ -5356,17 +5356,17 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "King pin bush",
+          "subtitle1": "2 per sliding axle",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "title2": "Rear swing frame bush",
+          "subtitle2": "sold in pairs&nbsp;",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "title3": "Upper suspension Bolt bush",
+          "subtitle3": "Change when servicing suspension rams&nbsp;",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "title4": "A frame Bearing&nbsp;",
+          "subtitle4": "Front A frame rose bearing&nbsp;",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
@@ -5400,7 +5400,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -5428,7 +5428,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5j"
         },
         {
@@ -5481,7 +5481,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -5653,7 +5653,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -5681,7 +5681,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5h"
         },
         {
@@ -5734,7 +5734,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -5793,7 +5793,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -5821,7 +5821,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5d"
         },
         {
@@ -5874,7 +5874,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -5933,7 +5933,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -5961,7 +5961,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4p"
         },
         {
@@ -6014,7 +6014,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6073,7 +6073,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6101,7 +6101,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4l"
         },
         {
@@ -6154,7 +6154,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6213,7 +6213,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6241,7 +6241,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4j"
         },
         {
@@ -6294,7 +6294,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6353,7 +6353,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6381,7 +6381,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4h"
         },
         {
@@ -6434,7 +6434,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6493,7 +6493,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6521,7 +6521,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4f"
         },
         {
@@ -6574,7 +6574,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6633,7 +6633,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6661,7 +6661,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4b"
         },
         {
@@ -6714,7 +6714,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6773,7 +6773,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6801,7 +6801,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-57"
         },
         {
@@ -6854,7 +6854,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -6913,7 +6913,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -6941,7 +6941,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-53"
         },
         {
@@ -6994,7 +6994,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -7053,7 +7053,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -7081,7 +7081,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-51"
         },
         {
@@ -7134,7 +7134,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -7193,7 +7193,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -7221,7 +7221,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4z"
         },
         {
@@ -7274,7 +7274,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -7333,7 +7333,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -7361,7 +7361,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4x"
         },
         {
@@ -7414,7 +7414,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -7473,7 +7473,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -7501,7 +7501,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4t"
         },
         {
@@ -7554,7 +7554,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -7624,38 +7624,35 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-020-swing-frame-405x304.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "SP9C Axles and Steering.html#image1-39",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-024-frame-384x288.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "SP9C Axles and Steering.html#image1-41",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-outer-ball-joint-293x220.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "SP9C Axles and Steering.html#image1-4h",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media4": {
@@ -7814,7 +7811,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7866,7 +7863,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7918,7 +7915,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -7970,7 +7967,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8022,7 +8019,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8074,7 +8071,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8126,7 +8123,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8178,7 +8175,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8230,59 +8227,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "11 - Locking Tab",
-          "text": "Available for Front Left, Front Right, Rear Left and Rear Right",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-3j"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "40",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8334,7 +8279,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8410,7 +8355,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8462,7 +8407,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8479,7 +8424,7 @@
               "size": 0
             }
           },
-          "title": "2 - Rear Rosejoint Bearing",
+          "title": "2 - A Frame Rear Rosejoint Bearing",
           "text": "Available for Front Left, Front Right, Rear Left and Rear Right",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
           "_tags": [
@@ -8514,7 +8459,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8566,7 +8511,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8618,7 +8563,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8670,7 +8615,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8722,7 +8667,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8774,7 +8719,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8826,7 +8771,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8878,7 +8823,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8930,7 +8875,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -8982,7 +8927,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9034,7 +8979,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9110,7 +9055,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9162,7 +9107,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9214,7 +9159,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9266,7 +9211,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9318,7 +9263,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9370,59 +9315,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "10 - Rosejoint Spacer",
-          "text": "Available for Front Left, Front Right, Rear Left and Rear Right",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-47"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "40",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9474,7 +9367,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9526,7 +9419,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9578,7 +9471,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9630,7 +9523,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9706,7 +9599,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9758,7 +9651,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9810,7 +9703,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9886,7 +9779,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -9962,7 +9855,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10014,7 +9907,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10066,7 +9959,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10118,7 +10011,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10170,7 +10063,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10222,7 +10115,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10274,7 +10167,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10326,7 +10219,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/5-024-bump-stop-101x76.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-008-steering-centre-point-d-dent-switch-176x132.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -10366,7 +10259,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10394,7 +10287,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5f"
         },
         {
@@ -10447,7 +10340,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -10506,7 +10399,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10534,7 +10427,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4d"
         },
         {
@@ -10587,7 +10480,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -10646,7 +10539,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10674,7 +10567,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-4v"
         },
         {
@@ -10727,7 +10620,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -10786,7 +10679,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -10814,7 +10707,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-59"
         },
         {
@@ -10867,7 +10760,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -11036,7 +10929,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -11064,7 +10957,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-68"
         }
       ]
@@ -11200,7 +11093,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -11228,7 +11121,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3b"
         }
       ]
@@ -11364,7 +11257,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -11392,7 +11285,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3i"
         }
       ]
@@ -11752,7 +11645,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -11780,7 +11673,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3h"
         },
         {
@@ -11833,7 +11726,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -11928,7 +11821,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -12095,7 +11988,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -12123,7 +12016,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3n"
         }
       ]
@@ -12149,7 +12042,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -12177,7 +12070,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3r"
         },
         {
@@ -12230,7 +12123,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -12325,7 +12218,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -12485,7 +12378,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -12513,7 +12406,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3y"
         }
       ]
@@ -12655,7 +12548,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -12683,7 +12576,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-5r"
         },
         {
@@ -12736,7 +12629,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -12831,7 +12724,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -12994,7 +12887,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -13022,7 +12915,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3d"
         }
       ]
@@ -13084,7 +12977,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -13247,7 +13140,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -13275,7 +13168,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3f"
         }
       ]
@@ -13337,7 +13230,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
@@ -13500,7 +13393,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -13528,7 +13421,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-3t"
         }
       ]
@@ -13589,7 +13482,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -13663,7 +13556,7 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -13691,7 +13584,7 @@
           },
           "text1": "<strong>Address</strong><br>Unit 5, Roughmoor Ind Est,<br>Williton,&nbsp;Taunton, Somerset,<br>TA4 4RF<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: enquiries@cropsprayer.com<br>\nPhone: +44 (0) 1984 633005<br><br>",
-          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-info\">NSTS Testing Equipment</a></p>",
+          "text3": "<p><strong>&nbsp; &nbsp; Links</strong><br>\n&nbsp; &nbsp;<a href=\"http://cropsprayerparts.com\" target=\"_blank\" class=\"text-white\">Crop Sprayer Parts</a></p><p><a href=\"https://nstsequipment.co.uk/\" target=\"_blank\"><br></a></p><br><p>&nbsp; &nbsp;<a href=\"https://nstsequipment.co.uk\" target=\"_blank\" class=\"text-primary\">NSTS Testing Equipment</a></p>",
           "_anchor": "contacts1-2v"
         },
         {
@@ -13744,7 +13637,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "menu",
